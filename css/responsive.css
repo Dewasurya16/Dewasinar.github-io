@@ -28,7 +28,7 @@
 
 
 /* if the viewport is equal to 340px or less than that */ 
-@media only screen and (max-width: 792px){
+@media only screen and (max-width: 766px){
     .site-main .about-area .about-title h2 > span{
         font-size: 31px;
         letter-spacing: 10px;
@@ -65,7 +65,7 @@
 
 
 /* if the viewport is equal to 1910px or less than that */ 
-@media only screen and (max-width: 1910px){
+@media only screen and (max-width: 992px){
     .header_area .main-menu .navbar{
         padding: 1rem;
     }
